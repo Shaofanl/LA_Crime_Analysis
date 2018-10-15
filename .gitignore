@@ -1,4 +1,7 @@
 **/__pycache__
 *.pyc
+**/spark-warehouse/
+**/.ipynb_checkpoints
 
 data/
+
