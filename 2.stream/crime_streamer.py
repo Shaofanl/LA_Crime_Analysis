@@ -47,12 +47,16 @@ class CrimeStreamSimulator(ABC):
         """
 
         # load batch file
+        print('Loading batch...')
         self._load_batch(crime_batch_path)
         # keep crime_of_interest 
+        print('Filtering batch...')
         self._filter(crime_of_interest)
         # simulate the report time
+        print('Generating report time...')
         self._simulate_report_time(report_time_range, start_datetime)
         # parition
+        print('Partitioning the data...')
         self.officers = self._partition(nb_officer)
         # assign 
         self.officers = self._assign(start_datetime, acceleration, streamer)
@@ -69,7 +73,7 @@ class CrimeStreamSimulator(ABC):
         # wait all processors to end
         for officers in self.officers:
             officers.join()
-        self.timer.shutdown()
+        self.timer.terminate()
 
     @abstractmethod
     def _load_batch(self, path):
@@ -111,6 +115,7 @@ class BasicCrimeStreamSimulator(CrimeStreamSimulator):
         self._batch = pd.read_csv(path)
 
     def _filter(self, crime_of_interest):
+        self._batch.dropna(axis=0, subset=['Crime Code Description'], inplace=True)
         self._batch = self._batch[self._batch['Crime Code Description'].str.contains('|'.join(crime_of_interest))]
 
     def _simulate_report_time(self, report_time_range, start_datetime):
@@ -178,6 +183,7 @@ def kafka_streamer(pid, data, start_datetime, acceleration):
 
 if __name__ == '__main__':
     streamer = BasicCrimeStreamSimulator(
+            # crime_batch_path='data/crime.csv',
             crime_batch_path='data/crime_small.csv',
             # streamer=printing_streamer,
             streamer=kafka_streamer,

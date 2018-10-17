@@ -25,8 +25,6 @@ Topic:la-crime  PartitionCount:1        ReplicationFactor:3     Configs:
 
 Build stream simulator(s)
 ---
-We can keep using python and there is [a python library for Kafka](https://github.com/Parsely/pykafka).
-
 I designed a `CrimeStreamer` that can: 
 1. Filter the crime of interest (`ASSAULT`, `BURGLARY`, `ROBBERY`).
 2. Simulate the report time (30~90 minutes after it commited).
@@ -36,6 +34,19 @@ If the batch file can be fitted in your memory, you can use `BasicCrimeStreamer`
 
 Connect Kafka with Spark.
 ---
+We can keep using python and there is [a python library for Kafka](https://github.com/Parsely/pykafka).
+
+
+Spark DStream
+---
+a
+
+
+
+Spark Windowed Stream
+---
+a
+
 
 
 Notes on Kafka
