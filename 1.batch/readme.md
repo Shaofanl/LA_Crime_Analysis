@@ -1,8 +1,7 @@
 1.Batch Analysis
 ---
 
-Data Collection 
----
+### Data Collection 
 Data can be downloaded from the [official website](https://data.lacity.org/A-Safe-City/Crime-Data-from-2010-to-Present/y8tr-7khq). Click the `view data`, `export`, `download`, and `csv` to download the batch file. 
 If this link is invalid, search for `LA crime database` with Google and download the csv file.
 
@@ -12,3 +11,6 @@ I used a [HDFS+Yarn+Spark architecture in Client mode](https://databricks.com/bl
 [This tutorial](https://www.linode.com/docs/databases/hadoop/install-configure-run-spark-on-top-of-hadoop-yarn-cluster/) is useful to bridge Yarn and Spark (which is hard to configure).
 
 Notice: set the #vcore and #memory to a small number in the simulated environment.
+
+### Analysis
+Please check the notebook for more details.
