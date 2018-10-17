@@ -1,7 +1,7 @@
 2.stream
 ---
 
-In this part, we will analyze the crime reports in real-time stream.
+In this part, we will analyze the crime reports in real-time stream with Apache Kafka and Apache Spark (Dstream, Windowed Stream, Structured Stream) in Python3.
 In order to do that, we will first build a streaming system to simulate the report stream of crimes.
 Although the reported date is given, the exact timetag is not and here we assume that the police office is efficient enough, hopefully, that crimes of type `ASSAULT`, `BURGLARY`, or `ROBBERY` can be reported to the system in 30 minutes to 90 minutes.
 
@@ -12,6 +12,7 @@ We are going to:
 - Build a stream simulator(s).
 - Connect Kafka with Spark.
 - Use Spark Streaming to do real-time analysis.
+- Try out Spark Structured Streaming.
 
 Kafka and Zookeeper
 ---
@@ -47,6 +48,14 @@ Spark Windowed Stream
 In `spark_windowed.py`, I set the `acceleration` to 60\*60, which means 1 second in the real-life equals to 1 hour in the simulation.
 From the stream, we use Spark Windowed Stream to calculate the same statistics but in different time level (1 hour/6 hours/12 hours).
 
+Spark Structured Streaming
+---
+Spark Structured Streaming can read the input stream as a structured/relationship table. 
+First, we need to change the required package from `spark-stream-kafka` to `spark-sql-kafka`.
+And Note that we have to transform binary data from Kafka first before we move to calculation.
+
+To be honest, the structured streaming is still undeveloped. There are a lot of common operations (e.g. limit) are [unsupported](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html#unsupported-operations) and you can easily trigger a bug since the steaming DataFrame is different from the normal DataFrame.
+
 Notes on Kafka
 ---
 Apache Kafka can be used to decouple the data pipeline:
@@ -62,3 +71,4 @@ Commands:
 - `kafka-topic.sh` is used to manage topics 
 Resources:
 - [Spark stream with Kafka](https://www.rittmanmead.com/blog/2017/01/getting-started-with-spark-streaming-with-python-and-kafka/)
+- [Structural Streaming](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html)

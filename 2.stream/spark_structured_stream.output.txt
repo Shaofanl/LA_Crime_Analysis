@@ -1,0 +1,2549 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++-----+-----+
+|types|count|
++-----+-----+
++-----+-----+
+
+-------------------------------------------
+Batch: 1
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|            BURGLARY|    8|
+|BATTERY - SIMPLE ...|    5|
+|INTIMATE PARTNER ...|    2|
+|BURGLARY FROM VEH...|    2|
+|ASSAULT WITH DEAD...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 2
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|            BURGLARY|   15|
+|BATTERY - SIMPLE ...|    7|
+|INTIMATE PARTNER ...|    7|
+|BURGLARY FROM VEH...|    4|
+|ASSAULT WITH DEAD...|    2|
+|             ROBBERY|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 3
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|            BURGLARY|   17|
+|BATTERY - SIMPLE ...|   10|
+|INTIMATE PARTNER ...|    7|
+|BURGLARY FROM VEH...|    5|
+|             ROBBERY|    2|
+|ASSAULT WITH DEAD...|    2|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 4
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|            BURGLARY|   21|
+|BATTERY - SIMPLE ...|   15|
+|BURGLARY FROM VEH...|   10|
+|INTIMATE PARTNER ...|    7|
+|             ROBBERY|    3|
+|ASSAULT WITH DEAD...|    3|
+|   ATTEMPTED ROBBERY|    1|
+| BURGLARY, ATTEMPTED|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 5
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|            BURGLARY|   27|
+|BATTERY - SIMPLE ...|   19|
+|BURGLARY FROM VEH...|   10|
+|INTIMATE PARTNER ...|    8|
+|             ROBBERY|    4|
+|ASSAULT WITH DEAD...|    3|
+| BURGLARY, ATTEMPTED|    2|
+|   ATTEMPTED ROBBERY|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 6
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|            BURGLARY|   27|
+|BATTERY - SIMPLE ...|   21|
+|BURGLARY FROM VEH...|   13|
+|INTIMATE PARTNER ...|    8|
+|             ROBBERY|    5|
+|ASSAULT WITH DEAD...|    4|
+| BURGLARY, ATTEMPTED|    2|
+|   ATTEMPTED ROBBERY|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 7
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|            BURGLARY|   29|
+|BATTERY - SIMPLE ...|   25|
+|BURGLARY FROM VEH...|   16|
+|INTIMATE PARTNER ...|    9|
+|ASSAULT WITH DEAD...|    6|
+|             ROBBERY|    5|
+| BURGLARY, ATTEMPTED|    2|
+|   ATTEMPTED ROBBERY|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 8
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|   29|
+|            BURGLARY|   29|
+|BURGLARY FROM VEH...|   17|
+|INTIMATE PARTNER ...|   10|
+|ASSAULT WITH DEAD...|    8|
+|             ROBBERY|    6|
+| BURGLARY, ATTEMPTED|    2|
+|   ATTEMPTED ROBBERY|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 9
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|            BURGLARY|   34|
+|BATTERY - SIMPLE ...|   31|
+|BURGLARY FROM VEH...|   21|
+|INTIMATE PARTNER ...|   12|
+|ASSAULT WITH DEAD...|    9|
+|             ROBBERY|    7|
+| BURGLARY, ATTEMPTED|    2|
+|   ATTEMPTED ROBBERY|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 10
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|            BURGLARY|   36|
+|BATTERY - SIMPLE ...|   33|
+|BURGLARY FROM VEH...|   27|
+|INTIMATE PARTNER ...|   14|
+|ASSAULT WITH DEAD...|   11|
+|             ROBBERY|    7|
+|   ATTEMPTED ROBBERY|    2|
+| BURGLARY, ATTEMPTED|    2|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 11
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|            BURGLARY|   38|
+|BATTERY - SIMPLE ...|   36|
+|BURGLARY FROM VEH...|   30|
+|INTIMATE PARTNER ...|   17|
+|ASSAULT WITH DEAD...|   13|
+|             ROBBERY|   10|
+|CHILD ABUSE (PHYS...|    2|
+|   ATTEMPTED ROBBERY|    2|
+| BURGLARY, ATTEMPTED|    2|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 12
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|            BURGLARY|   40|
+|BATTERY - SIMPLE ...|   37|
+|BURGLARY FROM VEH...|   33|
+|INTIMATE PARTNER ...|   21|
+|ASSAULT WITH DEAD...|   13|
+|             ROBBERY|   11|
+|CHILD ABUSE (PHYS...|    2|
+|   ATTEMPTED ROBBERY|    2|
+| BURGLARY, ATTEMPTED|    2|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 13
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|            BURGLARY|   42|
+|BATTERY - SIMPLE ...|   38|
+|BURGLARY FROM VEH...|   37|
+|INTIMATE PARTNER ...|   22|
+|             ROBBERY|   15|
+|ASSAULT WITH DEAD...|   13|
+|CHILD ABUSE (PHYS...|    2|
+|   ATTEMPTED ROBBERY|    2|
+| BURGLARY, ATTEMPTED|    2|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 14
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|            BURGLARY|   42|
+|BATTERY - SIMPLE ...|   39|
+|BURGLARY FROM VEH...|   39|
+|INTIMATE PARTNER ...|   22|
+|             ROBBERY|   15|
+|ASSAULT WITH DEAD...|   15|
+|CHILD ABUSE (PHYS...|    3|
+|   ATTEMPTED ROBBERY|    2|
+| BURGLARY, ATTEMPTED|    2|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 15
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|            BURGLARY|   42|
+|BATTERY - SIMPLE ...|   41|
+|BURGLARY FROM VEH...|   41|
+|INTIMATE PARTNER ...|   26|
+|ASSAULT WITH DEAD...|   16|
+|             ROBBERY|   15|
+|CHILD ABUSE (PHYS...|    3|
+|   ATTEMPTED ROBBERY|    2|
+| BURGLARY, ATTEMPTED|    2|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 16
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|            BURGLARY|   44|
+|BATTERY - SIMPLE ...|   42|
+|BURGLARY FROM VEH...|   42|
+|INTIMATE PARTNER ...|   27|
+|             ROBBERY|   16|
+|ASSAULT WITH DEAD...|   16|
+|CHILD ABUSE (PHYS...|    3|
+|   ATTEMPTED ROBBERY|    2|
+| BURGLARY, ATTEMPTED|    2|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 17
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|            BURGLARY|   45|
+|BATTERY - SIMPLE ...|   42|
+|BURGLARY FROM VEH...|   42|
+|INTIMATE PARTNER ...|   27|
+|             ROBBERY|   16|
+|ASSAULT WITH DEAD...|   16|
+|CHILD ABUSE (PHYS...|    3|
+|   ATTEMPTED ROBBERY|    2|
+| BURGLARY, ATTEMPTED|    2|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 18
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|            BURGLARY|   46|
+|BURGLARY FROM VEH...|   43|
+|BATTERY - SIMPLE ...|   42|
+|INTIMATE PARTNER ...|   29|
+|             ROBBERY|   18|
+|ASSAULT WITH DEAD...|   16|
+|CHILD ABUSE (PHYS...|    3|
+|   ATTEMPTED ROBBERY|    2|
+| BURGLARY, ATTEMPTED|    2|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 19
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|            BURGLARY|   47|
+|BATTERY - SIMPLE ...|   43|
+|BURGLARY FROM VEH...|   43|
+|INTIMATE PARTNER ...|   30|
+|             ROBBERY|   18|
+|ASSAULT WITH DEAD...|   16|
+|CHILD ABUSE (PHYS...|    3|
+|   ATTEMPTED ROBBERY|    2|
+| BURGLARY, ATTEMPTED|    2|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 20
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|            BURGLARY|   47|
+|BATTERY - SIMPLE ...|   44|
+|BURGLARY FROM VEH...|   43|
+|INTIMATE PARTNER ...|   30|
+|             ROBBERY|   18|
+|ASSAULT WITH DEAD...|   17|
+|CHILD ABUSE (PHYS...|    3|
+|   ATTEMPTED ROBBERY|    2|
+| BURGLARY, ATTEMPTED|    2|
+|INTIMATE PARTNER ...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 21
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|            BURGLARY|   48|
+|BATTERY - SIMPLE ...|   47|
+|BURGLARY FROM VEH...|   43|
+|INTIMATE PARTNER ...|   30|
+|             ROBBERY|   18|
+|ASSAULT WITH DEAD...|   17|
+|CHILD ABUSE (PHYS...|    3|
+|   ATTEMPTED ROBBERY|    2|
+| BURGLARY, ATTEMPTED|    2|
+|INTIMATE PARTNER ...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 22
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|            BURGLARY|   51|
+|BATTERY - SIMPLE ...|   50|
+|BURGLARY FROM VEH...|   45|
+|INTIMATE PARTNER ...|   31|
+|             ROBBERY|   18|
+|ASSAULT WITH DEAD...|   17|
+|CHILD ABUSE (PHYS...|    3|
+|INTIMATE PARTNER ...|    3|
+|   ATTEMPTED ROBBERY|    2|
+| BURGLARY, ATTEMPTED|    2|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 23
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|   54|
+|            BURGLARY|   52|
+|BURGLARY FROM VEH...|   47|
+|INTIMATE PARTNER ...|   34|
+|             ROBBERY|   18|
+|ASSAULT WITH DEAD...|   17|
+| BURGLARY, ATTEMPTED|    4|
+|CHILD ABUSE (PHYS...|    3|
+|INTIMATE PARTNER ...|    3|
+|   ATTEMPTED ROBBERY|    2|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 24
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|   57|
+|            BURGLARY|   57|
+|BURGLARY FROM VEH...|   48|
+|INTIMATE PARTNER ...|   35|
+|             ROBBERY|   18|
+|ASSAULT WITH DEAD...|   18|
+| BURGLARY, ATTEMPTED|    4|
+|CHILD ABUSE (PHYS...|    3|
+|INTIMATE PARTNER ...|    3|
+|   ATTEMPTED ROBBERY|    2|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 25
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|            BURGLARY|   59|
+|BATTERY - SIMPLE ...|   58|
+|BURGLARY FROM VEH...|   49|
+|INTIMATE PARTNER ...|   36|
+|             ROBBERY|   18|
+|ASSAULT WITH DEAD...|   18|
+| BURGLARY, ATTEMPTED|    4|
+|CHILD ABUSE (PHYS...|    3|
+|INTIMATE PARTNER ...|    3|
+|   ATTEMPTED ROBBERY|    2|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 26
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|            BURGLARY|   62|
+|BATTERY - SIMPLE ...|   59|
+|BURGLARY FROM VEH...|   51|
+|INTIMATE PARTNER ...|   37|
+|             ROBBERY|   18|
+|ASSAULT WITH DEAD...|   18|
+| BURGLARY, ATTEMPTED|    4|
+|CHILD ABUSE (PHYS...|    3|
+|INTIMATE PARTNER ...|    3|
+|   ATTEMPTED ROBBERY|    2|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 27
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|            BURGLARY|   62|
+|BATTERY - SIMPLE ...|   60|
+|BURGLARY FROM VEH...|   51|
+|INTIMATE PARTNER ...|   37|
+|             ROBBERY|   19|
+|ASSAULT WITH DEAD...|   18|
+| BURGLARY, ATTEMPTED|    4|
+|CHILD ABUSE (PHYS...|    3|
+|INTIMATE PARTNER ...|    3|
+|   ATTEMPTED ROBBERY|    2|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 28
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|   67|
+|            BURGLARY|   64|
+|BURGLARY FROM VEH...|   52|
+|INTIMATE PARTNER ...|   37|
+|             ROBBERY|   19|
+|ASSAULT WITH DEAD...|   19|
+| BURGLARY, ATTEMPTED|    4|
+|CHILD ABUSE (PHYS...|    3|
+|INTIMATE PARTNER ...|    3|
+|   ATTEMPTED ROBBERY|    2|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 29
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|   67|
+|            BURGLARY|   67|
+|BURGLARY FROM VEH...|   53|
+|INTIMATE PARTNER ...|   37|
+|ASSAULT WITH DEAD...|   21|
+|             ROBBERY|   19|
+| BURGLARY, ATTEMPTED|    5|
+|   ATTEMPTED ROBBERY|    4|
+|CHILD ABUSE (PHYS...|    3|
+|INTIMATE PARTNER ...|    3|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 30
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|   71|
+|            BURGLARY|   68|
+|BURGLARY FROM VEH...|   54|
+|INTIMATE PARTNER ...|   38|
+|ASSAULT WITH DEAD...|   22|
+|             ROBBERY|   21|
+| BURGLARY, ATTEMPTED|    5|
+|   ATTEMPTED ROBBERY|    4|
+|CHILD ABUSE (PHYS...|    3|
+|INTIMATE PARTNER ...|    3|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 31
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|   76|
+|            BURGLARY|   70|
+|BURGLARY FROM VEH...|   55|
+|INTIMATE PARTNER ...|   38|
+|             ROBBERY|   22|
+|ASSAULT WITH DEAD...|   22|
+| BURGLARY, ATTEMPTED|    5|
+|CHILD ABUSE (PHYS...|    4|
+|   ATTEMPTED ROBBERY|    4|
+|INTIMATE PARTNER ...|    3|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 32
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|   81|
+|            BURGLARY|   74|
+|BURGLARY FROM VEH...|   60|
+|INTIMATE PARTNER ...|   39|
+|             ROBBERY|   22|
+|ASSAULT WITH DEAD...|   22|
+|CHILD ABUSE (PHYS...|    6|
+| BURGLARY, ATTEMPTED|    5|
+|   ATTEMPTED ROBBERY|    4|
+|INTIMATE PARTNER ...|    3|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 33
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|   84|
+|            BURGLARY|   76|
+|BURGLARY FROM VEH...|   67|
+|INTIMATE PARTNER ...|   39|
+|             ROBBERY|   24|
+|ASSAULT WITH DEAD...|   22|
+|CHILD ABUSE (PHYS...|    6|
+| BURGLARY, ATTEMPTED|    5|
+|   ATTEMPTED ROBBERY|    4|
+|INTIMATE PARTNER ...|    3|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 34
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|   84|
+|            BURGLARY|   78|
+|BURGLARY FROM VEH...|   68|
+|INTIMATE PARTNER ...|   39|
+|             ROBBERY|   24|
+|ASSAULT WITH DEAD...|   22|
+|CHILD ABUSE (PHYS...|    6|
+| BURGLARY, ATTEMPTED|    5|
+|   ATTEMPTED ROBBERY|    4|
+|INTIMATE PARTNER ...|    3|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 35
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|   86|
+|            BURGLARY|   78|
+|BURGLARY FROM VEH...|   70|
+|INTIMATE PARTNER ...|   41|
+|             ROBBERY|   24|
+|ASSAULT WITH DEAD...|   24|
+|CHILD ABUSE (PHYS...|    6|
+| BURGLARY, ATTEMPTED|    5|
+|   ATTEMPTED ROBBERY|    4|
+|INTIMATE PARTNER ...|    3|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 36
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|   88|
+|            BURGLARY|   80|
+|BURGLARY FROM VEH...|   73|
+|INTIMATE PARTNER ...|   43|
+|             ROBBERY|   25|
+|ASSAULT WITH DEAD...|   24|
+|CHILD ABUSE (PHYS...|    6|
+|   ATTEMPTED ROBBERY|    6|
+| BURGLARY, ATTEMPTED|    5|
+|INTIMATE PARTNER ...|    3|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 37
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|   91|
+|            BURGLARY|   83|
+|BURGLARY FROM VEH...|   74|
+|INTIMATE PARTNER ...|   44|
+|             ROBBERY|   26|
+|ASSAULT WITH DEAD...|   24|
+|CHILD ABUSE (PHYS...|    6|
+|   ATTEMPTED ROBBERY|    6|
+| BURGLARY, ATTEMPTED|    6|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 38
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|   95|
+|            BURGLARY|   86|
+|BURGLARY FROM VEH...|   79|
+|INTIMATE PARTNER ...|   45|
+|             ROBBERY|   27|
+|ASSAULT WITH DEAD...|   24|
+|CHILD ABUSE (PHYS...|    6|
+|   ATTEMPTED ROBBERY|    6|
+| BURGLARY, ATTEMPTED|    6|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 39
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|   96|
+|            BURGLARY|   88|
+|BURGLARY FROM VEH...|   81|
+|INTIMATE PARTNER ...|   47|
+|             ROBBERY|   31|
+|ASSAULT WITH DEAD...|   24|
+|CHILD ABUSE (PHYS...|    6|
+|   ATTEMPTED ROBBERY|    6|
+| BURGLARY, ATTEMPTED|    6|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 40
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  100|
+|            BURGLARY|   89|
+|BURGLARY FROM VEH...|   83|
+|INTIMATE PARTNER ...|   51|
+|             ROBBERY|   32|
+|ASSAULT WITH DEAD...|   24|
+|CHILD ABUSE (PHYS...|    6|
+|   ATTEMPTED ROBBERY|    6|
+| BURGLARY, ATTEMPTED|    6|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 41
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  101|
+|            BURGLARY|   89|
+|BURGLARY FROM VEH...|   83|
+|INTIMATE PARTNER ...|   52|
+|             ROBBERY|   32|
+|ASSAULT WITH DEAD...|   24|
+|CHILD ABUSE (PHYS...|    6|
+|   ATTEMPTED ROBBERY|    6|
+| BURGLARY, ATTEMPTED|    6|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 42
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  103|
+|            BURGLARY|   89|
+|BURGLARY FROM VEH...|   83|
+|INTIMATE PARTNER ...|   52|
+|             ROBBERY|   32|
+|ASSAULT WITH DEAD...|   24|
+|CHILD ABUSE (PHYS...|    6|
+|   ATTEMPTED ROBBERY|    6|
+| BURGLARY, ATTEMPTED|    6|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 43
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  105|
+|            BURGLARY|   89|
+|BURGLARY FROM VEH...|   83|
+|INTIMATE PARTNER ...|   54|
+|             ROBBERY|   32|
+|ASSAULT WITH DEAD...|   24|
+|CHILD ABUSE (PHYS...|    6|
+|   ATTEMPTED ROBBERY|    6|
+| BURGLARY, ATTEMPTED|    6|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 44
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  105|
+|            BURGLARY|   90|
+|BURGLARY FROM VEH...|   83|
+|INTIMATE PARTNER ...|   54|
+|             ROBBERY|   33|
+|ASSAULT WITH DEAD...|   24|
+| BURGLARY, ATTEMPTED|    7|
+|CHILD ABUSE (PHYS...|    6|
+|   ATTEMPTED ROBBERY|    6|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 45
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  105|
+|            BURGLARY|   90|
+|BURGLARY FROM VEH...|   84|
+|INTIMATE PARTNER ...|   54|
+|             ROBBERY|   33|
+|ASSAULT WITH DEAD...|   24|
+| BURGLARY, ATTEMPTED|    7|
+|CHILD ABUSE (PHYS...|    6|
+|   ATTEMPTED ROBBERY|    6|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 46
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  105|
+|            BURGLARY|   90|
+|BURGLARY FROM VEH...|   84|
+|INTIMATE PARTNER ...|   54|
+|             ROBBERY|   33|
+|ASSAULT WITH DEAD...|   25|
+| BURGLARY, ATTEMPTED|    7|
+|CHILD ABUSE (PHYS...|    6|
+|   ATTEMPTED ROBBERY|    6|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 47
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  106|
+|            BURGLARY|   91|
+|BURGLARY FROM VEH...|   84|
+|INTIMATE PARTNER ...|   54|
+|             ROBBERY|   33|
+|ASSAULT WITH DEAD...|   25|
+| BURGLARY, ATTEMPTED|    7|
+|CHILD ABUSE (PHYS...|    6|
+|   ATTEMPTED ROBBERY|    6|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 48
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  106|
+|            BURGLARY|   92|
+|BURGLARY FROM VEH...|   84|
+|INTIMATE PARTNER ...|   54|
+|             ROBBERY|   33|
+|ASSAULT WITH DEAD...|   25|
+| BURGLARY, ATTEMPTED|    7|
+|CHILD ABUSE (PHYS...|    6|
+|   ATTEMPTED ROBBERY|    6|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 49
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  107|
+|            BURGLARY|   93|
+|BURGLARY FROM VEH...|   85|
+|INTIMATE PARTNER ...|   55|
+|             ROBBERY|   34|
+|ASSAULT WITH DEAD...|   27|
+| BURGLARY, ATTEMPTED|    7|
+|CHILD ABUSE (PHYS...|    6|
+|   ATTEMPTED ROBBERY|    6|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 50
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  111|
+|            BURGLARY|   97|
+|BURGLARY FROM VEH...|   86|
+|INTIMATE PARTNER ...|   56|
+|             ROBBERY|   34|
+|ASSAULT WITH DEAD...|   27|
+| BURGLARY, ATTEMPTED|    7|
+|CHILD ABUSE (PHYS...|    6|
+|   ATTEMPTED ROBBERY|    6|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 51
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  112|
+|            BURGLARY|   98|
+|BURGLARY FROM VEH...|   87|
+|INTIMATE PARTNER ...|   57|
+|             ROBBERY|   35|
+|ASSAULT WITH DEAD...|   28|
+| BURGLARY, ATTEMPTED|    7|
+|CHILD ABUSE (PHYS...|    6|
+|   ATTEMPTED ROBBERY|    6|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 52
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  115|
+|            BURGLARY|  104|
+|BURGLARY FROM VEH...|   88|
+|INTIMATE PARTNER ...|   57|
+|             ROBBERY|   37|
+|ASSAULT WITH DEAD...|   30|
+| BURGLARY, ATTEMPTED|    7|
+|CHILD ABUSE (PHYS...|    6|
+|   ATTEMPTED ROBBERY|    6|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 53
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  118|
+|            BURGLARY|  105|
+|BURGLARY FROM VEH...|   90|
+|INTIMATE PARTNER ...|   58|
+|             ROBBERY|   38|
+|ASSAULT WITH DEAD...|   32|
+| BURGLARY, ATTEMPTED|    7|
+|CHILD ABUSE (PHYS...|    6|
+|   ATTEMPTED ROBBERY|    6|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 54
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  118|
+|            BURGLARY|  107|
+|BURGLARY FROM VEH...|   94|
+|INTIMATE PARTNER ...|   59|
+|             ROBBERY|   38|
+|ASSAULT WITH DEAD...|   34|
+|CHILD ABUSE (PHYS...|    8|
+| BURGLARY, ATTEMPTED|    7|
+|   ATTEMPTED ROBBERY|    6|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 55
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  118|
+|            BURGLARY|  107|
+|BURGLARY FROM VEH...|   94|
+|INTIMATE PARTNER ...|   59|
+|             ROBBERY|   39|
+|ASSAULT WITH DEAD...|   35|
+|CHILD ABUSE (PHYS...|    8|
+| BURGLARY, ATTEMPTED|    7|
+|   ATTEMPTED ROBBERY|    6|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 56
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  120|
+|            BURGLARY|  114|
+|BURGLARY FROM VEH...|   96|
+|INTIMATE PARTNER ...|   59|
+|             ROBBERY|   40|
+|ASSAULT WITH DEAD...|   38|
+|CHILD ABUSE (PHYS...|    8|
+| BURGLARY, ATTEMPTED|    7|
+|   ATTEMPTED ROBBERY|    6|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 57
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  122|
+|            BURGLARY|  115|
+|BURGLARY FROM VEH...|   96|
+|INTIMATE PARTNER ...|   61|
+|             ROBBERY|   41|
+|ASSAULT WITH DEAD...|   40|
+|CHILD ABUSE (PHYS...|    8|
+| BURGLARY, ATTEMPTED|    7|
+|   ATTEMPTED ROBBERY|    6|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 58
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  123|
+|            BURGLARY|  116|
+|BURGLARY FROM VEH...|   97|
+|INTIMATE PARTNER ...|   64|
+|             ROBBERY|   43|
+|ASSAULT WITH DEAD...|   41|
+|CHILD ABUSE (PHYS...|    8|
+| BURGLARY, ATTEMPTED|    7|
+|   ATTEMPTED ROBBERY|    6|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 59
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  123|
+|            BURGLARY|  117|
+|BURGLARY FROM VEH...|   99|
+|INTIMATE PARTNER ...|   65|
+|             ROBBERY|   44|
+|ASSAULT WITH DEAD...|   42|
+|CHILD ABUSE (PHYS...|    8|
+|   ATTEMPTED ROBBERY|    7|
+| BURGLARY, ATTEMPTED|    7|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 60
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  128|
+|            BURGLARY|  117|
+|BURGLARY FROM VEH...|  100|
+|INTIMATE PARTNER ...|   66|
+|             ROBBERY|   45|
+|ASSAULT WITH DEAD...|   42|
+|CHILD ABUSE (PHYS...|    8|
+|   ATTEMPTED ROBBERY|    7|
+| BURGLARY, ATTEMPTED|    7|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 61
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  128|
+|            BURGLARY|  118|
+|BURGLARY FROM VEH...|  102|
+|INTIMATE PARTNER ...|   66|
+|ASSAULT WITH DEAD...|   48|
+|             ROBBERY|   45|
+|CHILD ABUSE (PHYS...|    8|
+|   ATTEMPTED ROBBERY|    7|
+| BURGLARY, ATTEMPTED|    7|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 62
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  128|
+|            BURGLARY|  119|
+|BURGLARY FROM VEH...|  102|
+|INTIMATE PARTNER ...|   66|
+|ASSAULT WITH DEAD...|   48|
+|             ROBBERY|   45|
+|CHILD ABUSE (PHYS...|    9|
+|   ATTEMPTED ROBBERY|    7|
+| BURGLARY, ATTEMPTED|    7|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 63
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  130|
+|            BURGLARY|  121|
+|BURGLARY FROM VEH...|  104|
+|INTIMATE PARTNER ...|   67|
+|ASSAULT WITH DEAD...|   50|
+|             ROBBERY|   46|
+|CHILD ABUSE (PHYS...|    9|
+| BURGLARY, ATTEMPTED|    8|
+|   ATTEMPTED ROBBERY|    7|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 64
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  131|
+|            BURGLARY|  123|
+|BURGLARY FROM VEH...|  107|
+|INTIMATE PARTNER ...|   68|
+|ASSAULT WITH DEAD...|   50|
+|             ROBBERY|   46|
+|CHILD ABUSE (PHYS...|    9|
+|   ATTEMPTED ROBBERY|    8|
+| BURGLARY, ATTEMPTED|    8|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 65
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  134|
+|            BURGLARY|  123|
+|BURGLARY FROM VEH...|  108|
+|INTIMATE PARTNER ...|   68|
+|ASSAULT WITH DEAD...|   52|
+|             ROBBERY|   48|
+|CHILD ABUSE (PHYS...|    9|
+|   ATTEMPTED ROBBERY|    8|
+| BURGLARY, ATTEMPTED|    8|
+|INTIMATE PARTNER ...|    4|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 66
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  137|
+|            BURGLARY|  123|
+|BURGLARY FROM VEH...|  110|
+|INTIMATE PARTNER ...|   69|
+|ASSAULT WITH DEAD...|   52|
+|             ROBBERY|   48|
+|CHILD ABUSE (PHYS...|    9|
+|   ATTEMPTED ROBBERY|    8|
+| BURGLARY, ATTEMPTED|    8|
+|INTIMATE PARTNER ...|    5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 67
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  137|
+|            BURGLARY|  123|
+|BURGLARY FROM VEH...|  114|
+|INTIMATE PARTNER ...|   69|
+|ASSAULT WITH DEAD...|   52|
+|             ROBBERY|   49|
+|CHILD ABUSE (PHYS...|    9|
+|   ATTEMPTED ROBBERY|    8|
+| BURGLARY, ATTEMPTED|    8|
+|INTIMATE PARTNER ...|    5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 68
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  137|
+|            BURGLARY|  123|
+|BURGLARY FROM VEH...|  115|
+|INTIMATE PARTNER ...|   69|
+|ASSAULT WITH DEAD...|   52|
+|             ROBBERY|   49|
+|CHILD ABUSE (PHYS...|    9|
+|   ATTEMPTED ROBBERY|    8|
+| BURGLARY, ATTEMPTED|    8|
+|INTIMATE PARTNER ...|    5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 69
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  138|
+|            BURGLARY|  123|
+|BURGLARY FROM VEH...|  117|
+|INTIMATE PARTNER ...|   69|
+|ASSAULT WITH DEAD...|   52|
+|             ROBBERY|   49|
+|CHILD ABUSE (PHYS...|    9|
+|   ATTEMPTED ROBBERY|    8|
+| BURGLARY, ATTEMPTED|    8|
+|INTIMATE PARTNER ...|    5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 70
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  140|
+|            BURGLARY|  123|
+|BURGLARY FROM VEH...|  117|
+|INTIMATE PARTNER ...|   69|
+|ASSAULT WITH DEAD...|   52|
+|             ROBBERY|   49|
+|CHILD ABUSE (PHYS...|    9|
+|   ATTEMPTED ROBBERY|    8|
+| BURGLARY, ATTEMPTED|    8|
+|INTIMATE PARTNER ...|    5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 71
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  140|
+|            BURGLARY|  123|
+|BURGLARY FROM VEH...|  118|
+|INTIMATE PARTNER ...|   69|
+|ASSAULT WITH DEAD...|   52|
+|             ROBBERY|   49|
+|CHILD ABUSE (PHYS...|    9|
+|   ATTEMPTED ROBBERY|    8|
+| BURGLARY, ATTEMPTED|    8|
+|INTIMATE PARTNER ...|    5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 72
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  140|
+|            BURGLARY|  124|
+|BURGLARY FROM VEH...|  118|
+|INTIMATE PARTNER ...|   69|
+|ASSAULT WITH DEAD...|   52|
+|             ROBBERY|   49|
+|CHILD ABUSE (PHYS...|    9|
+|   ATTEMPTED ROBBERY|    8|
+| BURGLARY, ATTEMPTED|    8|
+|INTIMATE PARTNER ...|    5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 73
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  141|
+|            BURGLARY|  125|
+|BURGLARY FROM VEH...|  118|
+|INTIMATE PARTNER ...|   69|
+|ASSAULT WITH DEAD...|   52|
+|             ROBBERY|   49|
+|CHILD ABUSE (PHYS...|    9|
+|   ATTEMPTED ROBBERY|    8|
+| BURGLARY, ATTEMPTED|    8|
+|INTIMATE PARTNER ...|    5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 74
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  141|
+|            BURGLARY|  127|
+|BURGLARY FROM VEH...|  118|
+|INTIMATE PARTNER ...|   69|
+|ASSAULT WITH DEAD...|   53|
+|             ROBBERY|   49|
+|CHILD ABUSE (PHYS...|    9|
+|   ATTEMPTED ROBBERY|    8|
+| BURGLARY, ATTEMPTED|    8|
+|INTIMATE PARTNER ...|    5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 75
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  141|
+|            BURGLARY|  128|
+|BURGLARY FROM VEH...|  118|
+|INTIMATE PARTNER ...|   69|
+|ASSAULT WITH DEAD...|   53|
+|             ROBBERY|   49|
+|CHILD ABUSE (PHYS...|    9|
+|   ATTEMPTED ROBBERY|    8|
+| BURGLARY, ATTEMPTED|    8|
+|INTIMATE PARTNER ...|    5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 76
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  141|
+|            BURGLARY|  128|
+|BURGLARY FROM VEH...|  119|
+|INTIMATE PARTNER ...|   69|
+|ASSAULT WITH DEAD...|   53|
+|             ROBBERY|   49|
+|CHILD ABUSE (PHYS...|    9|
+|   ATTEMPTED ROBBERY|    8|
+| BURGLARY, ATTEMPTED|    8|
+|INTIMATE PARTNER ...|    5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 77
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  142|
+|            BURGLARY|  133|
+|BURGLARY FROM VEH...|  120|
+|INTIMATE PARTNER ...|   69|
+|ASSAULT WITH DEAD...|   54|
+|             ROBBERY|   49|
+|CHILD ABUSE (PHYS...|    9|
+|   ATTEMPTED ROBBERY|    8|
+| BURGLARY, ATTEMPTED|    8|
+|INTIMATE PARTNER ...|    5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 78
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  143|
+|            BURGLARY|  135|
+|BURGLARY FROM VEH...|  122|
+|INTIMATE PARTNER ...|   69|
+|ASSAULT WITH DEAD...|   54|
+|             ROBBERY|   49|
+|CHILD ABUSE (PHYS...|    9|
+|   ATTEMPTED ROBBERY|    8|
+| BURGLARY, ATTEMPTED|    8|
+|INTIMATE PARTNER ...|    5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 79
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  145|
+|            BURGLARY|  135|
+|BURGLARY FROM VEH...|  122|
+|INTIMATE PARTNER ...|   69|
+|ASSAULT WITH DEAD...|   54|
+|             ROBBERY|   50|
+|CHILD ABUSE (PHYS...|    9|
+|   ATTEMPTED ROBBERY|    8|
+| BURGLARY, ATTEMPTED|    8|
+|INTIMATE PARTNER ...|    5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 80
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  148|
+|            BURGLARY|  139|
+|BURGLARY FROM VEH...|  122|
+|INTIMATE PARTNER ...|   70|
+|ASSAULT WITH DEAD...|   54|
+|             ROBBERY|   53|
+|CHILD ABUSE (PHYS...|    9|
+|   ATTEMPTED ROBBERY|    8|
+| BURGLARY, ATTEMPTED|    8|
+|INTIMATE PARTNER ...|    5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 81
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  149|
+|            BURGLARY|  146|
+|BURGLARY FROM VEH...|  124|
+|INTIMATE PARTNER ...|   70|
+|             ROBBERY|   54|
+|ASSAULT WITH DEAD...|   54|
+|CHILD ABUSE (PHYS...|    9|
+| BURGLARY, ATTEMPTED|    9|
+|   ATTEMPTED ROBBERY|    8|
+|INTIMATE PARTNER ...|    5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 82
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  151|
+|            BURGLARY|  149|
+|BURGLARY FROM VEH...|  126|
+|INTIMATE PARTNER ...|   70|
+|             ROBBERY|   55|
+|ASSAULT WITH DEAD...|   54|
+|CHILD ABUSE (PHYS...|    9|
+| BURGLARY, ATTEMPTED|    9|
+|   ATTEMPTED ROBBERY|    8|
+|INTIMATE PARTNER ...|    5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 83
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  153|
+|            BURGLARY|  151|
+|BURGLARY FROM VEH...|  128|
+|INTIMATE PARTNER ...|   70|
+|             ROBBERY|   57|
+|ASSAULT WITH DEAD...|   54|
+|CHILD ABUSE (PHYS...|    9|
+| BURGLARY, ATTEMPTED|    9|
+|   ATTEMPTED ROBBERY|    8|
+|INTIMATE PARTNER ...|    5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 84
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  154|
+|            BURGLARY|  153|
+|BURGLARY FROM VEH...|  129|
+|INTIMATE PARTNER ...|   70|
+|             ROBBERY|   58|
+|ASSAULT WITH DEAD...|   54|
+|CHILD ABUSE (PHYS...|    9|
+| BURGLARY, ATTEMPTED|    9|
+|   ATTEMPTED ROBBERY|    8|
+|INTIMATE PARTNER ...|    5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 85
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  157|
+|            BURGLARY|  154|
+|BURGLARY FROM VEH...|  129|
+|INTIMATE PARTNER ...|   70|
+|             ROBBERY|   61|
+|ASSAULT WITH DEAD...|   54|
+|CHILD ABUSE (PHYS...|    9|
+| BURGLARY, ATTEMPTED|    9|
+|   ATTEMPTED ROBBERY|    8|
+|INTIMATE PARTNER ...|    5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 86
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  161|
+|            BURGLARY|  159|
+|BURGLARY FROM VEH...|  130|
+|INTIMATE PARTNER ...|   71|
+|             ROBBERY|   61|
+|ASSAULT WITH DEAD...|   55|
+| BURGLARY, ATTEMPTED|   10|
+|CHILD ABUSE (PHYS...|    9|
+|   ATTEMPTED ROBBERY|    8|
+|INTIMATE PARTNER ...|    5|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 87
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  168|
+|            BURGLARY|  163|
+|BURGLARY FROM VEH...|  130|
+|INTIMATE PARTNER ...|   72|
+|             ROBBERY|   63|
+|ASSAULT WITH DEAD...|   56|
+| BURGLARY, ATTEMPTED|   10|
+|CHILD ABUSE (PHYS...|    9|
+|   ATTEMPTED ROBBERY|    8|
+|INTIMATE PARTNER ...|    5|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 88
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  170|
+|            BURGLARY|  164|
+|BURGLARY FROM VEH...|  130|
+|INTIMATE PARTNER ...|   73|
+|             ROBBERY|   64|
+|ASSAULT WITH DEAD...|   58|
+| BURGLARY, ATTEMPTED|   10|
+|CHILD ABUSE (PHYS...|    9|
+|   ATTEMPTED ROBBERY|    8|
+|INTIMATE PARTNER ...|    5|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 89
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  172|
+|            BURGLARY|  164|
+|BURGLARY FROM VEH...|  134|
+|INTIMATE PARTNER ...|   73|
+|             ROBBERY|   64|
+|ASSAULT WITH DEAD...|   58|
+| BURGLARY, ATTEMPTED|   10|
+|CHILD ABUSE (PHYS...|    9|
+|   ATTEMPTED ROBBERY|    8|
+|INTIMATE PARTNER ...|    5|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 90
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  176|
+|            BURGLARY|  169|
+|BURGLARY FROM VEH...|  138|
+|INTIMATE PARTNER ...|   75|
+|             ROBBERY|   65|
+|ASSAULT WITH DEAD...|   58|
+| BURGLARY, ATTEMPTED|   10|
+|CHILD ABUSE (PHYS...|    9|
+|   ATTEMPTED ROBBERY|    9|
+|INTIMATE PARTNER ...|    5|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 91
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  179|
+|            BURGLARY|  173|
+|BURGLARY FROM VEH...|  143|
+|INTIMATE PARTNER ...|   77|
+|             ROBBERY|   67|
+|ASSAULT WITH DEAD...|   60|
+| BURGLARY, ATTEMPTED|   10|
+|CHILD ABUSE (PHYS...|    9|
+|   ATTEMPTED ROBBERY|    9|
+|INTIMATE PARTNER ...|    5|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 92
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  180|
+|            BURGLARY|  177|
+|BURGLARY FROM VEH...|  147|
+|INTIMATE PARTNER ...|   79|
+|             ROBBERY|   70|
+|ASSAULT WITH DEAD...|   60|
+| BURGLARY, ATTEMPTED|   10|
+|CHILD ABUSE (PHYS...|    9|
+|   ATTEMPTED ROBBERY|    9|
+|INTIMATE PARTNER ...|    5|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 93
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  182|
+|            BURGLARY|  178|
+|BURGLARY FROM VEH...|  148|
+|INTIMATE PARTNER ...|   79|
+|             ROBBERY|   71|
+|ASSAULT WITH DEAD...|   60|
+| BURGLARY, ATTEMPTED|   11|
+|CHILD ABUSE (PHYS...|    9|
+|   ATTEMPTED ROBBERY|    9|
+|INTIMATE PARTNER ...|    5|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 94
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  184|
+|            BURGLARY|  179|
+|BURGLARY FROM VEH...|  151|
+|INTIMATE PARTNER ...|   82|
+|             ROBBERY|   71|
+|ASSAULT WITH DEAD...|   61|
+| BURGLARY, ATTEMPTED|   11|
+|   ATTEMPTED ROBBERY|   10|
+|CHILD ABUSE (PHYS...|    9|
+|INTIMATE PARTNER ...|    5|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 95
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  184|
+|            BURGLARY|  179|
+|BURGLARY FROM VEH...|  152|
+|INTIMATE PARTNER ...|   82|
+|             ROBBERY|   71|
+|ASSAULT WITH DEAD...|   61|
+| BURGLARY, ATTEMPTED|   11|
+|CHILD ABUSE (PHYS...|   10|
+|   ATTEMPTED ROBBERY|   10|
+|INTIMATE PARTNER ...|    5|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 96
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  188|
+|            BURGLARY|  180|
+|BURGLARY FROM VEH...|  153|
+|INTIMATE PARTNER ...|   83|
+|             ROBBERY|   72|
+|ASSAULT WITH DEAD...|   61|
+| BURGLARY, ATTEMPTED|   12|
+|   ATTEMPTED ROBBERY|   11|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 97
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  190|
+|            BURGLARY|  183|
+|BURGLARY FROM VEH...|  158|
+|INTIMATE PARTNER ...|   89|
+|             ROBBERY|   72|
+|ASSAULT WITH DEAD...|   61|
+| BURGLARY, ATTEMPTED|   12|
+|   ATTEMPTED ROBBERY|   11|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 98
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  193|
+|            BURGLARY|  184|
+|BURGLARY FROM VEH...|  158|
+|INTIMATE PARTNER ...|   91|
+|             ROBBERY|   73|
+|ASSAULT WITH DEAD...|   61|
+| BURGLARY, ATTEMPTED|   12|
+|   ATTEMPTED ROBBERY|   11|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 99
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  194|
+|            BURGLARY|  184|
+|BURGLARY FROM VEH...|  161|
+|INTIMATE PARTNER ...|   93|
+|             ROBBERY|   73|
+|ASSAULT WITH DEAD...|   62|
+| BURGLARY, ATTEMPTED|   12|
+|   ATTEMPTED ROBBERY|   11|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    1|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 100
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  194|
+|            BURGLARY|  184|
+|BURGLARY FROM VEH...|  162|
+|INTIMATE PARTNER ...|   93|
+|             ROBBERY|   73|
+|ASSAULT WITH DEAD...|   63|
+| BURGLARY, ATTEMPTED|   12|
+|   ATTEMPTED ROBBERY|   11|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    1|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 101
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  194|
+|            BURGLARY|  187|
+|BURGLARY FROM VEH...|  162|
+|INTIMATE PARTNER ...|   93|
+|             ROBBERY|   74|
+|ASSAULT WITH DEAD...|   63|
+| BURGLARY, ATTEMPTED|   12|
+|   ATTEMPTED ROBBERY|   11|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    1|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 102
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  194|
+|            BURGLARY|  188|
+|BURGLARY FROM VEH...|  162|
+|INTIMATE PARTNER ...|   93|
+|             ROBBERY|   74|
+|ASSAULT WITH DEAD...|   63|
+| BURGLARY, ATTEMPTED|   12|
+|   ATTEMPTED ROBBERY|   11|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    1|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 103
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  194|
+|            BURGLARY|  189|
+|BURGLARY FROM VEH...|  162|
+|INTIMATE PARTNER ...|   93|
+|             ROBBERY|   74|
+|ASSAULT WITH DEAD...|   63|
+| BURGLARY, ATTEMPTED|   12|
+|   ATTEMPTED ROBBERY|   11|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    1|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 104
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  196|
+|            BURGLARY|  192|
+|BURGLARY FROM VEH...|  162|
+|INTIMATE PARTNER ...|   94|
+|             ROBBERY|   74|
+|ASSAULT WITH DEAD...|   63|
+| BURGLARY, ATTEMPTED|   12|
+|   ATTEMPTED ROBBERY|   11|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    1|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 105
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  198|
+|            BURGLARY|  193|
+|BURGLARY FROM VEH...|  162|
+|INTIMATE PARTNER ...|   94|
+|             ROBBERY|   74|
+|ASSAULT WITH DEAD...|   64|
+| BURGLARY, ATTEMPTED|   12|
+|   ATTEMPTED ROBBERY|   11|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    1|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 106
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  201|
+|            BURGLARY|  195|
+|BURGLARY FROM VEH...|  165|
+|INTIMATE PARTNER ...|   94|
+|             ROBBERY|   75|
+|ASSAULT WITH DEAD...|   64|
+| BURGLARY, ATTEMPTED|   12|
+|   ATTEMPTED ROBBERY|   11|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    1|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 107
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  203|
+|            BURGLARY|  197|
+|BURGLARY FROM VEH...|  167|
+|INTIMATE PARTNER ...|   94|
+|             ROBBERY|   76|
+|ASSAULT WITH DEAD...|   64|
+| BURGLARY, ATTEMPTED|   12|
+|   ATTEMPTED ROBBERY|   11|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    2|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 108
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  205|
+|            BURGLARY|  199|
+|BURGLARY FROM VEH...|  168|
+|INTIMATE PARTNER ...|   96|
+|             ROBBERY|   78|
+|ASSAULT WITH DEAD...|   65|
+| BURGLARY, ATTEMPTED|   12|
+|   ATTEMPTED ROBBERY|   11|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    2|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 109
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  206|
+|            BURGLARY|  199|
+|BURGLARY FROM VEH...|  170|
+|INTIMATE PARTNER ...|   96|
+|             ROBBERY|   78|
+|ASSAULT WITH DEAD...|   65|
+| BURGLARY, ATTEMPTED|   13|
+|   ATTEMPTED ROBBERY|   11|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    2|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 110
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  209|
+|            BURGLARY|  199|
+|BURGLARY FROM VEH...|  170|
+|INTIMATE PARTNER ...|   96|
+|             ROBBERY|   79|
+|ASSAULT WITH DEAD...|   65|
+| BURGLARY, ATTEMPTED|   13|
+|   ATTEMPTED ROBBERY|   11|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    2|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 111
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  213|
+|            BURGLARY|  201|
+|BURGLARY FROM VEH...|  173|
+|INTIMATE PARTNER ...|   96|
+|             ROBBERY|   80|
+|ASSAULT WITH DEAD...|   65|
+| BURGLARY, ATTEMPTED|   14|
+|   ATTEMPTED ROBBERY|   11|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    2|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 112
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  216|
+|            BURGLARY|  204|
+|BURGLARY FROM VEH...|  173|
+|INTIMATE PARTNER ...|   97|
+|             ROBBERY|   81|
+|ASSAULT WITH DEAD...|   66|
+| BURGLARY, ATTEMPTED|   15|
+|   ATTEMPTED ROBBERY|   12|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    2|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 113
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  218|
+|            BURGLARY|  207|
+|BURGLARY FROM VEH...|  173|
+|INTIMATE PARTNER ...|   97|
+|             ROBBERY|   81|
+|ASSAULT WITH DEAD...|   66|
+| BURGLARY, ATTEMPTED|   15|
+|   ATTEMPTED ROBBERY|   12|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    2|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 114
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  219|
+|            BURGLARY|  207|
+|BURGLARY FROM VEH...|  173|
+|INTIMATE PARTNER ...|   97|
+|             ROBBERY|   81|
+|ASSAULT WITH DEAD...|   66|
+| BURGLARY, ATTEMPTED|   15|
+|   ATTEMPTED ROBBERY|   12|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    2|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 115
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  220|
+|            BURGLARY|  207|
+|BURGLARY FROM VEH...|  176|
+|INTIMATE PARTNER ...|   97|
+|             ROBBERY|   82|
+|ASSAULT WITH DEAD...|   66|
+| BURGLARY, ATTEMPTED|   15|
+|   ATTEMPTED ROBBERY|   12|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    2|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 116
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  225|
+|            BURGLARY|  210|
+|BURGLARY FROM VEH...|  178|
+|INTIMATE PARTNER ...|   98|
+|             ROBBERY|   84|
+|ASSAULT WITH DEAD...|   68|
+| BURGLARY, ATTEMPTED|   15|
+|   ATTEMPTED ROBBERY|   12|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    2|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 117
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  225|
+|            BURGLARY|  213|
+|BURGLARY FROM VEH...|  178|
+|INTIMATE PARTNER ...|   99|
+|             ROBBERY|   87|
+|ASSAULT WITH DEAD...|   68|
+| BURGLARY, ATTEMPTED|   15|
+|   ATTEMPTED ROBBERY|   12|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    3|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 118
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  229|
+|            BURGLARY|  214|
+|BURGLARY FROM VEH...|  183|
+|INTIMATE PARTNER ...|  102|
+|             ROBBERY|   87|
+|ASSAULT WITH DEAD...|   69|
+| BURGLARY, ATTEMPTED|   15|
+|   ATTEMPTED ROBBERY|   12|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    3|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 119
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  231|
+|            BURGLARY|  217|
+|BURGLARY FROM VEH...|  190|
+|INTIMATE PARTNER ...|  102|
+|             ROBBERY|   87|
+|ASSAULT WITH DEAD...|   69|
+| BURGLARY, ATTEMPTED|   15|
+|   ATTEMPTED ROBBERY|   12|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    3|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 120
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  232|
+|            BURGLARY|  219|
+|BURGLARY FROM VEH...|  193|
+|INTIMATE PARTNER ...|  107|
+|             ROBBERY|   88|
+|ASSAULT WITH DEAD...|   69|
+| BURGLARY, ATTEMPTED|   15|
+|   ATTEMPTED ROBBERY|   12|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    3|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 121
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  237|
+|            BURGLARY|  221|
+|BURGLARY FROM VEH...|  197|
+|INTIMATE PARTNER ...|  113|
+|             ROBBERY|   88|
+|ASSAULT WITH DEAD...|   70|
+| BURGLARY, ATTEMPTED|   15|
+|   ATTEMPTED ROBBERY|   12|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    3|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 122
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  238|
+|            BURGLARY|  221|
+|BURGLARY FROM VEH...|  201|
+|INTIMATE PARTNER ...|  113|
+|             ROBBERY|   88|
+|ASSAULT WITH DEAD...|   70|
+| BURGLARY, ATTEMPTED|   15|
+|   ATTEMPTED ROBBERY|   12|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    3|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 123
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  240|
+|            BURGLARY|  221|
+|BURGLARY FROM VEH...|  201|
+|INTIMATE PARTNER ...|  113|
+|             ROBBERY|   88|
+|ASSAULT WITH DEAD...|   70|
+| BURGLARY, ATTEMPTED|   15|
+|   ATTEMPTED ROBBERY|   12|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    3|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 124
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  240|
+|            BURGLARY|  221|
+|BURGLARY FROM VEH...|  204|
+|INTIMATE PARTNER ...|  114|
+|             ROBBERY|   89|
+|ASSAULT WITH DEAD...|   72|
+| BURGLARY, ATTEMPTED|   15|
+|   ATTEMPTED ROBBERY|   12|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    3|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 125
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  243|
+|            BURGLARY|  221|
+|BURGLARY FROM VEH...|  205|
+|INTIMATE PARTNER ...|  116|
+|             ROBBERY|   90|
+|ASSAULT WITH DEAD...|   73|
+| BURGLARY, ATTEMPTED|   16|
+|   ATTEMPTED ROBBERY|   13|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    5|
+|BURGLARY FROM VEH...|    3|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 126
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  246|
+|            BURGLARY|  221|
+|BURGLARY FROM VEH...|  206|
+|INTIMATE PARTNER ...|  119|
+|             ROBBERY|   93|
+|ASSAULT WITH DEAD...|   73|
+| BURGLARY, ATTEMPTED|   16|
+|   ATTEMPTED ROBBERY|   13|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    6|
+|BURGLARY FROM VEH...|    3|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 127
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  248|
+|            BURGLARY|  221|
+|BURGLARY FROM VEH...|  207|
+|INTIMATE PARTNER ...|  119|
+|             ROBBERY|   93|
+|ASSAULT WITH DEAD...|   73|
+| BURGLARY, ATTEMPTED|   16|
+|   ATTEMPTED ROBBERY|   13|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    6|
+|BURGLARY FROM VEH...|    3|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 128
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  248|
+|            BURGLARY|  224|
+|BURGLARY FROM VEH...|  207|
+|INTIMATE PARTNER ...|  119|
+|             ROBBERY|   94|
+|ASSAULT WITH DEAD...|   73|
+| BURGLARY, ATTEMPTED|   16|
+|   ATTEMPTED ROBBERY|   13|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    6|
+|BURGLARY FROM VEH...|    3|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 129
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  250|
+|            BURGLARY|  224|
+|BURGLARY FROM VEH...|  207|
+|INTIMATE PARTNER ...|  119|
+|             ROBBERY|   94|
+|ASSAULT WITH DEAD...|   73|
+| BURGLARY, ATTEMPTED|   16|
+|   ATTEMPTED ROBBERY|   13|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    6|
+|BURGLARY FROM VEH...|    3|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 130
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  250|
+|            BURGLARY|  227|
+|BURGLARY FROM VEH...|  207|
+|INTIMATE PARTNER ...|  119|
+|             ROBBERY|   94|
+|ASSAULT WITH DEAD...|   73|
+| BURGLARY, ATTEMPTED|   16|
+|   ATTEMPTED ROBBERY|   13|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    6|
+|BURGLARY FROM VEH...|    3|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 131
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  250|
+|            BURGLARY|  227|
+|BURGLARY FROM VEH...|  207|
+|INTIMATE PARTNER ...|  120|
+|             ROBBERY|   94|
+|ASSAULT WITH DEAD...|   73|
+| BURGLARY, ATTEMPTED|   16|
+|   ATTEMPTED ROBBERY|   13|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    6|
+|BURGLARY FROM VEH...|    3|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 132
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  251|
+|            BURGLARY|  227|
+|BURGLARY FROM VEH...|  208|
+|INTIMATE PARTNER ...|  120|
+|             ROBBERY|   94|
+|ASSAULT WITH DEAD...|   73|
+| BURGLARY, ATTEMPTED|   16|
+|   ATTEMPTED ROBBERY|   13|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    6|
+|BURGLARY FROM VEH...|    3|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 133
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  253|
+|            BURGLARY|  228|
+|BURGLARY FROM VEH...|  210|
+|INTIMATE PARTNER ...|  120|
+|             ROBBERY|   94|
+|ASSAULT WITH DEAD...|   73|
+| BURGLARY, ATTEMPTED|   16|
+|   ATTEMPTED ROBBERY|   13|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    6|
+|BURGLARY FROM VEH...|    3|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 134
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  253|
+|            BURGLARY|  229|
+|BURGLARY FROM VEH...|  212|
+|INTIMATE PARTNER ...|  120|
+|             ROBBERY|   94|
+|ASSAULT WITH DEAD...|   74|
+| BURGLARY, ATTEMPTED|   16|
+|   ATTEMPTED ROBBERY|   13|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    6|
+|BURGLARY FROM VEH...|    3|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 135
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  253|
+|            BURGLARY|  231|
+|BURGLARY FROM VEH...|  212|
+|INTIMATE PARTNER ...|  121|
+|             ROBBERY|   94|
+|ASSAULT WITH DEAD...|   74|
+| BURGLARY, ATTEMPTED|   16|
+|   ATTEMPTED ROBBERY|   13|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    6|
+|BURGLARY FROM VEH...|    3|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 136
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  255|
+|            BURGLARY|  233|
+|BURGLARY FROM VEH...|  214|
+|INTIMATE PARTNER ...|  122|
+|             ROBBERY|   95|
+|ASSAULT WITH DEAD...|   75|
+| BURGLARY, ATTEMPTED|   16|
+|   ATTEMPTED ROBBERY|   13|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    6|
+|BURGLARY FROM VEH...|    3|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 137
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  255|
+|            BURGLARY|  235|
+|BURGLARY FROM VEH...|  214|
+|INTIMATE PARTNER ...|  122|
+|             ROBBERY|   97|
+|ASSAULT WITH DEAD...|   75|
+| BURGLARY, ATTEMPTED|   16|
+|   ATTEMPTED ROBBERY|   13|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    6|
+|BURGLARY FROM VEH...|    3|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 138
+-------------------------------------------
++--------------------+-----+
+|               types|count|
++--------------------+-----+
+|BATTERY - SIMPLE ...|  256|
+|            BURGLARY|  237|
+|BURGLARY FROM VEH...|  214|
+|INTIMATE PARTNER ...|  124|
+|             ROBBERY|   97|
+|ASSAULT WITH DEAD...|   75|
+| BURGLARY, ATTEMPTED|   16|
+|   ATTEMPTED ROBBERY|   13|
+|CHILD ABUSE (PHYS...|   10|
+|INTIMATE PARTNER ...|    6|
+|BURGLARY FROM VEH...|    3|
+|CHILD ABUSE (PHYS...|    1|
++--------------------+-----+
+
