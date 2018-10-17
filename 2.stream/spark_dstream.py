@@ -12,7 +12,10 @@ from pyspark.streaming import StreamingContext
 from pyspark.streaming.kafka import KafkaUtils
 
 import json
+import numpy as np
+from scipy.spatial.distance import euclidean
 
+USC = np.array([34.021861, -118.282942])
 
 if __name__ == '__main__':
     # spark context
@@ -34,13 +37,24 @@ if __name__ == '__main__':
     # print out the count
     parsed.count().map(lambda x: 'Number of crimes in the most recent batch: {}'.format(x)).pprint()
 
+    parsed.map(lambda crime: euclidean(USC, list(map(float, crime['Location '][1:-1].split(','))) )\
+                                if crime['Location ']else float('inf') )\
+            .filter(lambda x: x < 0.02)\
+            .count()\
+            .map(lambda x: 'Number of crimes near USC: {}'.format(x))\
+            .pprint()
+
     parsed.map(lambda crime: crime['Crime Code Description'])\
             .countByValue()\
-            .transform(lambda x: x.sortBy(lambda x: -x[1])).pprint()
+            .transform(lambda x: x.sortBy(lambda x: -x[1]))\
+            .transform(lambda rdd: sc.parallelize(rdd.take(5)))\
+            .pprint()
 
     parsed.map(lambda crime: crime['Area Name'])\
             .countByValue()\
-            .transform(lambda x: x.sortBy(lambda x: -x[1])).pprint()
+            .transform(lambda x: x.sortBy(lambda x: -x[1]))\
+            .transform(lambda rdd: sc.parallelize(rdd.take(5)))\
+            .pprint()
 
 
     # start computation

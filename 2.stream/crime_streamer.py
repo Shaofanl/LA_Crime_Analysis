@@ -183,12 +183,12 @@ def kafka_streamer(pid, data, start_datetime, acceleration):
 
 if __name__ == '__main__':
     streamer = BasicCrimeStreamSimulator(
-            # crime_batch_path='data/crime.csv',
-            crime_batch_path='data/crime_small.csv',
+            crime_batch_path='data/crime.csv',
+            # crime_batch_path='data/crime_small.csv',
             # streamer=printing_streamer,
             streamer=kafka_streamer,
             start_datetime=datetime(2013, 12, 1),
-            acceleration=3*60*60,  # 1 second in simulation is 3*60*60 seconds
+            acceleration=60*60,  # 1 second in simulation is 3*60*60 seconds
             nb_officer=4
     )
     streamer.start()

@@ -5,7 +5,6 @@ In this part, we will analyze the crime reports in real-time stream.
 In order to do that, we will first build a streaming system to simulate the report stream of crimes.
 Although the reported date is given, the exact timetag is not and here we assume that the police office is efficient enough, hopefully, that crimes of type `ASSAULT`, `BURGLARY`, or `ROBBERY` can be reported to the system in 30 minutes to 90 minutes.
 
-
 Table of Contents
 ---
 We are going to:
@@ -13,7 +12,6 @@ We are going to:
 - Build a stream simulator(s).
 - Connect Kafka with Spark.
 - Use Spark Streaming to do real-time analysis.
-
 
 Kafka and Zookeeper
 ---
@@ -31,23 +29,23 @@ I designed a `CrimeStreamer` that can:
 3. Sort and Partition all records into one or many parts randomly. Each partition represents a police officer.
 If the batch file can be fitted in your memory, you can use `BasicCrimeStreamer` directly. Otherwise, you can inherit `CrimeStreamer` and implement your own API to build a streamer that can handle larger dataset. 
 
-
 Connect Kafka with Spark.
 ---
 We can keep using python and there is [a python library for Kafka](https://github.com/Parsely/pykafka).
-
+Also notice that we have to use ` spark-streaming-kafka-0-8` (deprecated) since `spark-streaming-kafka-0-10` hasn't supported Python yet.
 
 Spark DStream
 ---
-a
-
-
+In `spark_dstream.py`, I set the `acceleration` to 3\*60\*60, which means 1 second in the real-life equals to 3 hours in the simulation. From the stream, we use Spark Stream to calculate:
+- the total number of crimes
+- the number of crimes near USC
+- top-5 crime type
+- top-5 crime location
 
 Spark Windowed Stream
 ---
-a
-
-
+In `spark_windowed.py`, I set the `acceleration` to 60\*60, which means 1 second in the real-life equals to 1 hour in the simulation.
+From the stream, we use Spark Windowed Stream to calculate the same statistics but in different time level (1 hour/6 hours/12 hours).
 
 Notes on Kafka
 ---
@@ -62,3 +60,5 @@ Apache Kafka can be used to decouple the data pipeline:
 Commands:
 - `kafka-server-start.sh` is used to control brokers
 - `kafka-topic.sh` is used to manage topics 
+Resources:
+- [Spark stream with Kafka](https://www.rittmanmead.com/blog/2017/01/getting-started-with-spark-streaming-with-python-and-kafka/)
