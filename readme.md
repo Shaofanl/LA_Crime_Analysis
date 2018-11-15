@@ -1,6 +1,8 @@
 LA Crime Data Analysis
 ---------------------
 
+![Pipeline](http://shaofanlai.com/archive/storage/kloo4Y82QxqhgS8RcMxaygVGnmFs5c9406pN4BSK9aMIuVnOao)
+
 This is a data science practice that focuses on the crime analysis in LA with Apache family (**Spark/Kafka/Hadoop/HDFS/Yarn/Zookeeper**).
 
 I have been living in LA for over one year and I received some safety warnings from our Department of Public Safety from time to time. I feel necessary to know about how the crimes distributed in LA so that I don't have to worry that much when I am out for dinner.
