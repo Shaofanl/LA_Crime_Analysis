@@ -24,6 +24,6 @@ Please check the notebook for more details.
   - Calculated the statistics on different time-level (last hour/last 6 hours/last 12 hours) with **Spark Windowed Streaming**
   - Optimized the parsing procedure of structured stream for a better performance with the **Spark Structured Streaming**.
 - 2\_2. Streaming with Flink
-  - Developed a streaming pipeline to calculate the recent reported crimes for different kinds with **Flink** in **scala**.
+  - Developed a streaming pipeline to calculate the recently reported crimes for different kinds with **Flink** in **scala**.
  
 Happy Coding and Live Safely :)
